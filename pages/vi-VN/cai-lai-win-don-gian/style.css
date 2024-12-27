@@ -15,6 +15,11 @@ html {
     padding: 0;
     background-color: rgb(26, 26, 27);
     background-image: url(https://letduycode.github.io/data/img/background.png);
+    height: 100vh; /* Chiều cao của phần tử, có thể điều chỉnh */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 a {
