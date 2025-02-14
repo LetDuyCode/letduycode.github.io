@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /disallow/
-Sitemap: https://letduycode.github.io/sitemap.xml
